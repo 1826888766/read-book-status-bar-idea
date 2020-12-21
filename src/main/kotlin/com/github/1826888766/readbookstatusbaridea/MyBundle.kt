@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.1826888766.readbookstatusbaridea
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
